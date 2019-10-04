@@ -21,7 +21,7 @@
     "babel-preset-react-native": "^1.9.1",
     "jest": "^24.8.0",
     "react-devtools": "^2.5.2",
-    "react-test-renderer": "16.0.0",
+    "react-test-renderer": "16.10.2",
     "xopen": "1.0.0"
   },
   "jest": {
